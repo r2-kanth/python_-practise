@@ -1,3 +1,5 @@
 a = input("Enter a number:")
 t=type(a)
 print(t)
+t=int(a)
+print(type(t))
